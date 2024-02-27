@@ -21,7 +21,6 @@ class Test{
             cout << "B = " << b << endl;
         }
     
-    
 };
 
 
